@@ -1,4 +1,4 @@
-# Inhouse Competition - IIIT Allahabad
+# Placement Portal - IIIT Allahabad
 
 ## Topic: College Related
 
@@ -8,6 +8,10 @@
 Students often miss out on job opportunities due to scattered and overwhelming information on various websites. A structured system, guided by experienced mentors or seniors, can help students navigate web development, Android, AWS, and other tech paths effectively.
 
 ---
+
+## Live Demo
+
+You can view the live project here: [Placement Portal - Live Site](https://placement-portal.fwh.is/)
 
 ## Introduction
 
